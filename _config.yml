@@ -14,12 +14,12 @@
 title: Chris Shum
 description: Under construction
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
-first_published: 1996 # if migrating another site, the year of your first publish
+  name: Chris Shum # or company name
+  email: shum.chris8@gmail.com
+  url: http://chris-shum.github.io
+first_published: 2017 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "http://chris-shum.github.io" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
@@ -34,14 +34,14 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  linkedin-square: https://linkedin.com/in/shumchris
+  github: https://github.com/chris-shum
+  instagram: https://www.instagram.com/chrisshowme/
+  twitter: https://twitter.com/chrisshowme1
+  #facebook-official: https://facebook.com/gary.faircloth
+  #google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
   email: /contact/
   #flickr:
-  #instagram:
   #youtube-square:
   #spotify:
   #stack-overflow:
