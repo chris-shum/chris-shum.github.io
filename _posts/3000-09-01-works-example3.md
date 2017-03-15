@@ -1,6 +1,6 @@
 ---
 priority: 0.6
-title: Project Z
+title: Project Credentials
 excerpt: An example of d and e
 categories: credentials
 background-image: works-sample.png
