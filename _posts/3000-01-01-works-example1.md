@@ -2,7 +2,7 @@
 priority: 0.6
 title: Project Work
 excerpt: Teestingggg
-categories: work
+categories: misc
 background-image: works-sample.png
 tags:
   - This
