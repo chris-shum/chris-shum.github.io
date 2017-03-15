@@ -1,8 +1,8 @@
 ---
 priority: 0.7
-title: Project Y
+title: Project Misc
 excerpt: A better example of a and b, with c
-categories: works
+categories: misc
 background-image: works-sample.png
 tags:
   - This
