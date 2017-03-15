@@ -32,4 +32,9 @@ if site.categories.credentials%}
       endfor %}
     </tbody>
   </table>
-</div>
+</div>{%
+  if site.works_in_progress %}
+  <div class="works_inprogress"> </div>{%
+  endif %}{%
+endif
+%}
