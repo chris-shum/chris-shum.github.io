@@ -12,16 +12,16 @@ background-image: pic01.jpg
 if site.social.linkedin-square %}
 <div class="table-wrapper">
   <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
-  <a target="_blank" href="{{ site.social.linkedin-square }}">LinkedIn profile</a></td>
+  <a target="_blank" href="{{ site.social.instagram }}">Instagram profile</a></td>
   </tr></tbody></table>
 </div>{%
 endif %}
 {%
-if site.categories.work %}
+if site.categories.works %}
 <div class="table-wrapper">
   <table>
     <tbody>{%
-      include fn_groupsort_reverse.html unsorted=site.categories.work groupby='priority' sortby='date'
+      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
 %}{%  for work in sorted_list %}
       <tr>
         <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
@@ -34,4 +34,9 @@ if site.categories.work %}
       endfor %}
     </tbody>
   </table>
-</div>
+</div>{%
+  if site.works_in_progress %}
+  <div class="works_inprogress">In-progress, more to come.</div>{%
+  endif %}{%
+endif
+%}
