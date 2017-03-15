@@ -16,7 +16,7 @@ tags:
 #lastupdated: 2017-03-14 22:50:45
 ---
 
-##Courses:
+<h4>Courses</h4>
 <ul class="techlist">
 <li><span class="tech">Java</span></li>
 <li><span class="tech">XML</span></li>
@@ -25,8 +25,8 @@ tags:
 <li><span class="tech">Espresso</span></li>
 </ul>
 
-##Summary:
-<a href = "">
-General Assembly</a>
+<h4>Summary</h4>
+<a href = "https://profiles.generalassemb.ly/profiles/shumchris">
+General Assembly Profile</a>
 
-General Assembly ADI video embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JHagBCh0p3g" frameborder="0" allowfullscreen></iframe>

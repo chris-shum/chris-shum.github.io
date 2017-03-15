@@ -15,15 +15,17 @@ tags:
   - Material Design
 #lastupdated: 2017-03-14 22:50:45
 ---
-#Test:
-
+<h4>Courses</h4>
 <ul class="techlist">
-<li><span class="tech">PHP</span></li>
-<li><span class="tech">CakePHP</span></li>
-<li><span class="tech">MySQL</span></li>
-<li><span class="tech">jQuery</span></li>
-<li><span class="tech">Ant</span></li>
-<li><span class="tech">SOAP</span></li>
-<li><span class="tech">Agile</span></li>
-<li><span class="tech">Leadership</span></li>
+<li><span class="tech">Retrofit</span></li>
+<li><span class="tech">Firebase</span></li>
+<li><span class="tech">Realm</span></li>
+<li><span class="tech">Gradle</span></li>
+<li><span class="tech">Material Design</span></li>
 </ul>
+
+<h4>Summary</h4>
+<a href = "https://profiles.udacity.com/u/christophershum">
+Udacity Profile</a>
+
+I took this course to supplement my Android knowledge.  As I already obtained the basics from General Assembly, I challenged myself learn how to use new libraries and incorporate them into my projects for Udacity.

@@ -4,7 +4,7 @@ excerpt: Manchester Metropolitan University
 priority: 0.8
 categories:
   - credentials
-background-image:
+background-image: mmu.jpg
 #date/lastupdated are optional
 date: 2014-09-01 22:50:4
 tags:
@@ -15,7 +15,7 @@ tags:
   - ISO
 #lastupdated: 2017-03-14 22:50:45
 ---
-##Skills:
+##Skills Obtained:
 <ul class="techlist">
 <li><span class="tech">SolidWorks</span></li>
 <li><span class="tech">LabVIEW</span></li>
@@ -24,6 +24,28 @@ tags:
 <li><span class="tech">ISO</span></li>
 </ul>
 
-##Summary:
-<a href = "">Manchester Metropolitan University</a>
-Stuff about master's degree in UK
+<h4>Summary</h4>
+<a href = "http://www.soe.mmu.ac.uk/">
+Manchester Metropolitan University School of Engineering</a>
+
+MSc Thesis: “Small Wind Turbine Design w/Bladed v4.3”
+Tested the capabilities of Bladed v4.3 and its CAE solving accuracy.
+
+MASTER’S COURSE PROJECTS:
+• Computer Aided Fatigue Analysis
+Used Adams and nCode DesignLife to design and determine fatigue on a notched beam.
+
+• Finite Element Analysis
+Used SolidWorks to design and test an elastomer for use in a metal forming punch process.
+
+• Integrated Management Systems
+Developed and applied ISO 9001, 14001, and 18001 standards to a fictitious company.
+
+• Measurement Systems
+Designed and calibrated a digital thermometer using LabVIEW and an RTD.
+
+• Product Design and Development
+Designed and developed a simple tool starting from sketches, to foam modeling, and finishing with a 3D SolidWorks model.
+
+• Simulation of Mechanical Systems
+Used ANSYS Fluent to design and determine the efficiency of a wall heater vs. a UHF induction heater in the same room. Also virtually designed and validated a Whitworth quick return mechanism.
