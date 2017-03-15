@@ -13,6 +13,11 @@ tags:
   - Kanban
   - SAP
   - Lean Manufacturing
+  - Die Bonding
+  - Wire Bonding
+  - Test & Burn-In
+  - Laser Marking
+  - Soldering
 #lastupdated: 2017-03-14 22:50:45
 ---
 <h4>Skills</h4>
@@ -42,7 +47,7 @@ Administrated diode laser production within the Mounting & Testing (M&T) group<b
 •	Implemented monthly 5S workshops for continuous improvement<br>
 •	Created, reviewed and improved work instructions for SAP, data transactions, and operating tools<br>
 •	Restructured Kanban cycle to improve production cycle times<br>
-•	Troubleshot tools include SET FC250, Sikama Reflow Oven, K&S Wire Bonder, Telops Tester & Burn-In, and Centrotherm Reflow Oven<br><br>
+•	Troubleshot tools include SET FC250, Sikama Reflow Oven, K&S Wire Bonder, Telops Tester & Burn-In, and Centrotherm Reflow Oven<br>
 
 PRODUCTION TECHNICIAN<br>
 Assembled diode laser components within the Mounting & Testing group<br>
