@@ -26,9 +26,7 @@ tags:
 </ul>
 
 <h4>Summary</h4>
-<a href = "https://profiles.generalassemb.ly/profiles/shumchris">
+<a href = "https://profiles.generalassemb.ly/profiles/shumchris" target="_blank">
 General Assembly Profile</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHagBCh0p3g" frameborder="0" allowfullscreen></iframe>
-
-

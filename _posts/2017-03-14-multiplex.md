@@ -18,7 +18,7 @@ tags:
 </ul>
 
 <h4>Sep 2006 – Mar 2009<br>
-Multiplex Inc. NKA <a href = "http://www.archcomtech.com/">Archcom Technology</a><br>
+Multiplex Inc. NKA <a href = "http://www.archcomtech.com/" target="_blank">Archcom Technology</a><br>
 South Plainfield, New Jersey</h4>
 
 Implemented testing standards and procedures to ensure that product met customer requirements<br>

@@ -35,7 +35,7 @@ tags:
 </ul>
 
 <h4>Mar 2009 - October 2012<br>
-<a href = "http://www.us.trumpf.com/en.html">Trumpf Photonics</a><br>
+<a href = "http://www.us.trumpf.com/en.html" target="_blank">Trumpf Photonics</a><br>
 Cranbury, New Jersey</h4>
 
 LEAD TECHNICIAN:<br>

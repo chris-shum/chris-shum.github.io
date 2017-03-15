@@ -25,7 +25,7 @@ tags:
 </ul>
 
 <h4>Summary</h4>
-<a href = "http://www.soe.mmu.ac.uk/">
+<a href = "http://www.soe.mmu.ac.uk/" target="_blank">
 Manchester Metropolitan University School of Engineering</a>
 
 MSc Thesis: “Small Wind Turbine Design w/Bladed v4.3”<br>

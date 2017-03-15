@@ -31,7 +31,7 @@ tags:
 </ul>
 
 <h4>Summary</h4>
-<a href = "https://www.physics.rutgers.edu/">
+<a href = "https://www.physics.rutgers.edu/" target="_blank">
 Rutgers University Physics Department</a>
 
 I obtained my bachelor's in Physics while working full time at <a href = "https://chris-shum.github.io/work/trumpf-photonics.html">Trumpf Photonics</a>.

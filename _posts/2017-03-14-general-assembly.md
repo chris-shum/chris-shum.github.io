@@ -24,7 +24,7 @@ tags:
 </ul>
 
 <h4>July 2016 - October 2016<br>
-<a href = "https://generalassemb.ly/">General Assembly</a><br>
+<a href = "https://generalassemb.ly/" target="_blank">General Assembly</a><br>
 New York, NY</h4>
 
 Supported the academic success of the Android Development Immersive students.<br>
