@@ -33,4 +33,4 @@ General Assembly Profile</a>
 
 <h4>My Apps</h4>
 
-<img src = "https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=Yi%2B906sIzCyqER7oXXot6iEg60c%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3PuLZXafeejuQ8eLikclAQ0f_KhQzm3D5LuftznKY4igp_kJY24ZxUBbFImi24">
+<img src = "https://media.licdn.com/media-proxy/ext?w=400&h=400&f=n&hash=Yi%2B906sIzCyqER7oXXot6iEg60c%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3PuLZXafeejuQ8eLikclAQ0f_KhQzm3D5LuftznKY4igp_kJY24ZxUBbFImi24" >
