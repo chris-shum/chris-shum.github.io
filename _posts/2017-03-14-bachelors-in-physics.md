@@ -4,7 +4,7 @@ excerpt: Rutgers University
 priority: 0.7
 categories:
   - credentials
-background-image:
+background-image: rutgers.jpg
 #date/lastupdated are optional
 date: 2012-09-01 22:50:4
 tags:
@@ -16,7 +16,7 @@ tags:
 #lastupdated: 2017-03-14 22:50:45
 ---
 
-##Courses:
+Courses:
 <ul class="techlist">
 <li><span class="tech">Classical Mechanics</span></li>
 <li><span class="tech">Electromagnetism</span></li>
@@ -25,8 +25,8 @@ tags:
 <li><span class="tech">Modern Optics</span></li>
 </ul>
 
-##Summary:
-<a href = "">
+Summary:
+<a href = "https://www.physics.rutgers.edu/">
 Rutgers University Physics Department</a>
 
 My bachelor's in Physics was pursued while working full time.
