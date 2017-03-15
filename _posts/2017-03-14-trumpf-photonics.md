@@ -4,7 +4,7 @@ excerpt: Trumpf Photonics
 priority: 0.7
 categories:
   - work
-background-image:
+background-image: trumpf.jpg
 #date/lastupdated are optional
 date: 2009-03-01 22:50:4
 tags:

@@ -4,7 +4,7 @@ excerpt: Multiplex
 priority: 0.6
 categories:
   - work
-background-image:
+background-image: archcom.jpg
 #date/lastupdated are optional
 date: 2006-09-01 22:50:4
 tags:

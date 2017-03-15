@@ -29,4 +29,8 @@ tags:
 <a href = "https://profiles.generalassemb.ly/profiles/shumchris" target="_blank">
 General Assembly Profile</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JHagBCh0p3g" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/JHagBCh0p3g" frameborder="0" allowfullscreen></iframe>
+
+<h4>My Apps</h4>
+
+<img src = "https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=Yi%2B906sIzCyqER7oXXot6iEg60c%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3PuLZXafeejuQ8eLikclAQ0f_KhQzm3D5LuftznKY4igp_kJY24ZxUBbFImi24">
