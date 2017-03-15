@@ -16,9 +16,13 @@ tags:
 #lastupdated: 2017-03-14 22:50:45
 ---
 
-Test:
-  - Retrofit
-  - Realm
-  - Firebase
-  - Gradle
-  - Material Design
+<ul class="techlist">
+<li><span class="tech">PHP</span></li>
+<li><span class="tech">CakePHP</span></li>
+<li><span class="tech">MySQL</span></li>
+<li><span class="tech">jQuery</span></li>
+<li><span class="tech">Ant</span></li>
+<li><span class="tech">SOAP</span></li>
+<li><span class="tech">Agile</span></li>
+<li><span class="tech">Leadership</span></li>
+</ul>
