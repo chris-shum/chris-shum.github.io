@@ -1,8 +1,8 @@
 ---
 priority: 0.6
-title: Project XZZZ
+title: Project Work
 excerpt: Teestingggg
-categories: works
+categories: work
 background-image: works-sample.png
 tags:
   - This
