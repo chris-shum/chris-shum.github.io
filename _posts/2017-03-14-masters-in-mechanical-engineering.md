@@ -28,10 +28,10 @@ tags:
 <a href = "http://www.soe.mmu.ac.uk/">
 Manchester Metropolitan University School of Engineering</a>
 
-MSc Thesis: “Small Wind Turbine Design w/Bladed v4.3”
+MSc Thesis: “Small Wind Turbine Design w/Bladed v4.3”<br>
 Tested the capabilities of Bladed v4.3 and its CAE solving accuracy.
 
-MASTER’S COURSE PROJECTS:
+MASTER’S COURSE PROJECTS:<br>
 • Computer Aided Fatigue Analysis
 Used Adams and nCode DesignLife to design and determine fatigue on a notched beam.
 

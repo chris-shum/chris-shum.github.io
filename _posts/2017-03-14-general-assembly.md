@@ -23,11 +23,11 @@ tags:
 <li><span class="tech">Guidance</span></li>
 </ul>
 
-<h4>July 2016 - October 2016
-<a href = "https://generalassemb.ly/">General Assembly</a>
+<h4>July 2016 - October 2016<br>
+<a href = "https://generalassemb.ly/">General Assembly</a><br>
 New York, NY</h4>
 
-Supported the academic success of the Android Development Immersive students.
-• Reviewed the concepts of Android Development (Java, XML, etc.).
-• Encouraged growth and excitement in the learning of material.
-• Guided the creativity of students’ design work.
+Supported the academic success of the Android Development Immersive students.<br>
+• Reviewed the concepts of Android Development (Java, XML, etc.).<br>
+• Encouraged growth and excitement in the learning of material.<br>
+• Guided the creativity of students’ design work.<br>

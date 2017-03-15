@@ -29,25 +29,25 @@ tags:
 <li><span class="tech">Soldering</span></li>
 </ul>
 
-<h4>Mar 2009 - October 2012
-<a href = "http://www.us.trumpf.com/en.html">Trumpf Photonics</a>
+<h4>Mar 2009 - October 2012<br>
+<a href = "http://www.us.trumpf.com/en.html">Trumpf Photonics</a><br>
 Cranbury, New Jersey</h4>
 
-LEAD TECHNICIAN:
-Administrated diode laser production within the Mounting & Testing (M&T) group
-•	Coordinated the daily tasks of M&T production technicians across two shifts
-•	Tracked materials and corrected inventory using SAP
-•	Performed analysis and assisted with experiments of developing new product components
-•	Led weekly production meetings to assess product specifications and quantities
-•	Implemented monthly 5S workshops for continuous improvement
-•	Created, reviewed and improved work instructions for SAP, data transactions, and operating tools
-•	Restructured Kanban cycle to improve production cycle times
-•	Troubleshot tools include SET FC250, Sikama Reflow Oven, K&S Wire Bonder, Telops Tester & Burn-In, and Centrotherm Reflow Oven
+LEAD TECHNICIAN:<br>
+Administrated diode laser production within the Mounting & Testing (M&T) group<br>
+•	Coordinated the daily tasks of M&T production technicians across two shifts<br>
+•	Tracked materials and corrected inventory using SAP<br>
+•	Performed analysis and assisted with experiments of developing new product components<br>
+•	Led weekly production meetings to assess product specifications and quantities<br>
+•	Implemented monthly 5S workshops for continuous improvement<br>
+•	Created, reviewed and improved work instructions for SAP, data transactions, and operating tools<br>
+•	Restructured Kanban cycle to improve production cycle times<br>
+•	Troubleshot tools include SET FC250, Sikama Reflow Oven, K&S Wire Bonder, Telops Tester & Burn-In, and Centrotherm Reflow Oven<br><br>
 
-PRODUCTION TECHNICIAN
-Assembled diode laser components within the Mounting & Testing group
-• Primarily responsible for operating the SET FC250 High Accuracy Production Flip Chip Bonder
-• Manually attached n-Contacts to laser diode heat sinks with Sikama Reflow Oven
-• Wire bonded laser diodes to n-Contacts with K&S Wire Bonder
-• Ran completed diode lasers through the Telops Test and Burn-In station
+PRODUCTION TECHNICIAN<br>
+Assembled diode laser components within the Mounting & Testing group<br>
+• Primarily responsible for operating the SET FC250 High Accuracy Production Flip Chip Bonder<br>
+• Manually attached n-Contacts to laser diode heat sinks with Sikama Reflow Oven<br>
+• Wire bonded laser diodes to n-Contacts with K&S Wire Bonder<br>
+• Ran completed diode lasers through the Telops Test and Burn-In station<br>
 • Soldered diode lasers onto coolers using Centrotherm Reflow Oven

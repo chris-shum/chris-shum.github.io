@@ -17,13 +17,13 @@ tags:
 <li><span class="tech">Testing &  Burn-In</span></li>
 </ul>
 
-<h4>Sep 2006 – Mar 2009
-Multiplex Inc. NKA <a href = "http://www.archcomtech.com/">Archcom Technology</a>
+<h4>Sep 2006 – Mar 2009<br>
+Multiplex Inc. NKA <a href = "http://www.archcomtech.com/">Archcom Technology</a><br>
 South Plainfield, New Jersey</h4>
 
-Implemented testing standards and procedures to ensure that product met customer requirements
-•	Ran test and burn-in procedures on electro-absorption modulated lasers (EMLs)
-•	Used pulse generator, oscilloscope, spectrum analyzer, and error detector
-•	Collected, evaluated and stored test data of completed EMLs
-•	Generated lab reports of EMLs and communicated test results
+Implemented testing standards and procedures to ensure that product met customer requirements<br>
+•	Ran test and burn-in procedures on electro-absorption modulated lasers (EMLs)<br>
+•	Used pulse generator, oscilloscope, spectrum analyzer, and error detector<br>
+•	Collected, evaluated and stored test data of completed EMLs<br>
+•	Generated lab reports of EMLs and communicated test results<br>
 •	Trained entry-level technician in testing procedures
