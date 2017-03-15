@@ -15,7 +15,7 @@ tags:
   - ISO
 #lastupdated: 2017-03-14 22:50:45
 ---
-##Skills Obtained:
+<h4>Skills Obtained</h4>
 <ul class="techlist">
 <li><span class="tech">SolidWorks</span></li>
 <li><span class="tech">LabVIEW</span></li>

@@ -4,7 +4,7 @@ excerpt: Udacity
 priority: 1
 categories:
   - credentials
-background-image:
+background-image: udacity.jpg
 #date/lastupdated are optional
 date: 2017-01-01 22:50:4
 tags:
@@ -15,7 +15,7 @@ tags:
   - Material Design
 #lastupdated: 2017-03-14 22:50:45
 ---
-<h4>Courses</h4>
+<h4>Skills Obtained</h4>
 <ul class="techlist">
 <li><span class="tech">Retrofit</span></li>
 <li><span class="tech">Firebase</span></li>
