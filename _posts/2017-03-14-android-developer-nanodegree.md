@@ -9,8 +9,8 @@ background-image:
 date: 2017-01-01 22:50:4
 tags:
   - Retrofit
-  - Realm
   - Firebase
+  - Realm
   - Gradle
   - Material Design
 #lastupdated: 2017-03-14 22:50:45

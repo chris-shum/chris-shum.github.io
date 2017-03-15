@@ -15,3 +15,18 @@ tags:
   - Modern Optics
 #lastupdated: 2017-03-14 22:50:45
 ---
+
+##Courses:
+<ul class="techlist">
+<li><span class="tech">Classical Mechanics</span></li>
+<li><span class="tech">Electromagnetism</span></li>
+<li><span class="tech">Thermodynamics</span></li>
+<li><span class="tech">Quantum Mechanics</span></li>
+<li><span class="tech">Modern Optics</span></li>
+</ul>
+
+##Summary:
+<a href = "">
+Rutgers University Physics Department</a>
+
+My bachelor's in Physics was pursued while working full time.
