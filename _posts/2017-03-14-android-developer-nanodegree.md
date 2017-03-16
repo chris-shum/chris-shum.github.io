@@ -26,7 +26,7 @@ tags:
 
 <h4>Summary</h4>
 <a href = "https://profiles.udacity.com/u/christophershum" target="_blank">
-Udacity Profile</a>
+Udacity Profile</a><br>
 <a href = "https://github.com/chris-shum" target="_blank">
 Github</a>
 

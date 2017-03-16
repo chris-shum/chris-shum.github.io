@@ -27,7 +27,7 @@ tags:
 
 <h4>Summary</h4>
 <a href = "https://profiles.generalassemb.ly/profiles/shumchris" target="_blank">
-General Assembly Profile</a>
+General Assembly Profile</a><br>
 <a href = "https://github.com/chris-shum" target="_blank">
 Github</a>
 
@@ -35,5 +35,4 @@ Github</a>
 <br>
 
 A preview of apps I created while at GA:
-
 <img src = "https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=Yi%2B906sIzCyqER7oXXot6iEg60c%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3PuLZXafeejuQ8eLikclAQ0f_KhQzm3D5LuftznKY4igp_kJY24ZxUBbFImi24" width="300" height="187">
