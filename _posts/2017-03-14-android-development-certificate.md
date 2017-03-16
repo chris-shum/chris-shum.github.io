@@ -29,7 +29,7 @@ tags:
 <a href = "https://profiles.generalassemb.ly/profiles/shumchris" target="_blank">
 General Assembly Profile</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JHagBCh0p3g" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/JHagBCh0p3g" frameborder="0" allowfullscreen></iframe>
 
 
 <h4>My Apps</h4>
