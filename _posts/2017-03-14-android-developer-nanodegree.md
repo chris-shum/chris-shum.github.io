@@ -27,5 +27,7 @@ tags:
 <h4>Summary</h4>
 <a href = "https://profiles.udacity.com/u/christophershum" target="_blank">
 Udacity Profile</a>
+<a href = "https://github.com/chris-shum" target="_blank">
+Github</a>
 
 I took this course to supplement my Android knowledge.  As I already obtained the basics from General Assembly, I challenged myself learn how to use new libraries and incorporate them into my projects for Udacity.
