@@ -16,6 +16,12 @@ layout: default
 %}{%      assign idxbutton = 'Index'
 %}{%      include fn_groupsort_reverse.html unsorted=site.categories.work groupby='priority' sortby='date'
 %}{%    endif
+%}{%    if page.categories contains 'miscellaneous'
+%}{%      assign idxperma = '/miscellaneous/'
+%}{%      assign idxtitle = 'Miscellaneous Index'
+%}{%      assign idxbutton = 'Index'
+%}{%      include fn_groupsort_reverse.html unsorted=site.categories.miscellaneous groupby='priority' sortby='date'
+%}{%    endif
 %}{%    if page.categories.first == 'topics' and page.categories.last != 'topics'
 %}{%      assign idxperma = page.categories | join: '/' | prepend: '/' | append: '/'
 %}{%      assign idxtitle = 'Start page'
