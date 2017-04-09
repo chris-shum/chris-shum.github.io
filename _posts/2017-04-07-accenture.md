@@ -1,12 +1,12 @@
 ---
-title: Support Staff
-excerpt: LendIt
+title: Technology Analyst
+excerpt: Accenture
 priority: 1
 categories:
   - work
-background-image: lendit.jpg
+background-image: accenture.jpg
 #date/lastupdated are optional
-date: 2017-02-01 22:50:4
+date: 2017-04-07 22:50:4
 tags:
   - TBD
 #lastupdated: 2017-03-14 22:50:45
