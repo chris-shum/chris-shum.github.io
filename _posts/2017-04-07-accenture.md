@@ -27,8 +27,8 @@ tags:
 New York, NY</h4>
 
 Provide programming and technology implementation services and solutions for clients.<br>
-• Support the integration of software into client systems within in a SaaS model
-• Work hands on with the system, configuring it and testing that it meets the customer’s technical requirements
-• Liaison between client and other parties to streamline data connections
-• Understanding of the client's API, interfaces, and customization
+• Support the integration of software into client systems within in a SaaS model<br>
+• Work hands on with the system, configuring it and testing that it meets the customer’s technical requirements<br>
+• Liaison between client and other parties to streamline data connections<br>
+• Understanding of the client's API, interfaces, and customization<br>
 • Troubleshoot issues through testing or by analyzing source code 
