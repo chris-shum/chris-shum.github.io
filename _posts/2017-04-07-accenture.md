@@ -27,6 +27,8 @@ tags:
 New York, NY</h4>
 
 Provide programming and technology implementation services and solutions for clients.<br>
-• Support the integration of client software into customer's system in a SaaS model<br>
-• Liaison between financial parties (Bloomberg, Reuters, MarkIt, etc.) to streamline data connections<br>
-• Troubleshoot issues through testing or by analyzing source code
+• Support the integration of software into client systems within in a SaaS model
+• Work hands on with the system, configuring it and testing that it meets the customer’s technical requirements
+• Liaison between client and other parties to streamline data connections
+• Understanding of the client's API, interfaces, and customization
+• Troubleshoot issues through testing or by analyzing source code 
