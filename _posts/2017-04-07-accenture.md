@@ -35,6 +35,6 @@ Provide programming and technology implementation services and solutions for cli
 • Configure and test to meet the customer’s technical requirements<br>
 • Understanding of the client’s API, interfaces, and customization<br>
 • Troubleshoot issues through testing or by analyzing source code<br>
-<br><br>
+<br>
 Technology Development Program Rewards & Recognition Lead<br>
 New York Metro Analyst Action Team New Jersey Social Committee Lead
