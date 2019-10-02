@@ -1,5 +1,5 @@
 ---
-title: Teaching Assistant
+title: Android Development Teaching Assistant
 excerpt: General Assembly
 priority: 0.9
 categories:
