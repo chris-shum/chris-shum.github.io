@@ -1,7 +1,7 @@
 ---
 title: Android Development Certificate
 excerpt: General Assembly
-priority: 0.9
+priority: 0.3
 categories:
   - credentials
 background-image: ga.jpg

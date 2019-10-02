@@ -1,7 +1,7 @@
 ---
 title: Bachelor's in Physics
 excerpt: Rutgers University
-priority: 0.7
+priority: 0.1
 categories:
   - credentials
 background-image: rutgers.jpg

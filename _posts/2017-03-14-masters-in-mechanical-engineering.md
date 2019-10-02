@@ -1,7 +1,7 @@
 ---
 title: Master's in Mechanical Engineering
 excerpt: Manchester Metropolitan University
-priority: 0.8
+priority: 0.2
 categories:
   - credentials
 background-image: mmu.jpg
