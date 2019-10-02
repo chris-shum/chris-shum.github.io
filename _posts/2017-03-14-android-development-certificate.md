@@ -26,8 +26,8 @@ tags:
 </ul>
 
 <h4>Summary</h4>
-<a href = "https://profiles.generalassemb.ly/profiles/shumchris" target="_blank">
-General Assembly Profile</a><br>
+<a href = "https://github.com/chris-shum/chris-shum.github.io/blob/master/Certificate-of-Completion-shum.chris%40yahoo.com-1462990284.pdf" target="_blank">
+Android Development Immersive Certificate</a><br>
 <a href = "https://github.com/chris-shum" target="_blank">
 Github</a>
 
