@@ -6,16 +6,21 @@ categories:
   - credentials
 background-image: cloud_foundry.png
 #date/lastupdated are optional
-date: 2017-01-01 22:50:4
+date: 2018-12-01 22:50:4
 tags:
-  - Docker
   - Microservices
+  - Docker
+  - Twelve-Factor Applications
+  - Debugging
 #lastupdated: 2017-03-14 22:50:45
 ---
 <h4>Skills Obtained</h4>
 <ul class="techlist">
-<li><span class="tech">Docker</span></li>
 <li><span class="tech">Microservices</span></li>
+<li><span class="tech">Docker</span></li>
+<li><span class="tech">Twelve-Factor Applications</span></li>
+<li><span class="tech">Debugging</span></li>
+
 </ul>
 
 <h4>Summary</h4>
