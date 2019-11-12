@@ -1,5 +1,5 @@
 ---
-title: Technology Analyst
+title: Senior Technology Analyst
 excerpt: Accenture
 priority: 1
 categories:
