@@ -6,7 +6,7 @@ categories:
   - credentials
 background-image: rutgers.jpg
 #date/lastupdated are optional
-date: 2012-09-01 22:50:4
+date: 2011-10-01 22:50:4
 tags:
   - Classical Mechanics
   - Electromagnetism
