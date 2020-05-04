@@ -6,14 +6,14 @@ categories:
   - credentials
 background-image: rutgers.jpg
 #date/lastupdated are optional
-date: 2011-10-01 22:50:4
+date: 2012-05-01 22:50:4
 tags:
   - Classical Mechanics
   - Electromagnetism
   - Thermodynamics
   - Quantum Mechanics
   - Modern Optics
-#lastupdated: 2017-03-14 22:50:45
+#lastupdated: 2020-05-04 22:50:45
 ---
 
 <h4>Courses</h4>
