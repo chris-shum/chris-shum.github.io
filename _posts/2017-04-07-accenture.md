@@ -8,11 +8,11 @@ background-image: accenture.jpg
 #date/lastupdated are optional
 date: 2017-04-07 22:50:4
 tags:
-  - API Testing
-  - Performance Testing
-  - SaaS
-  - Java
-  - Virtual Machines
+  - CI/CD
+  - Application Migration
+  - Automation
+  - API & Performance Testing
+  - Alerting & Monitoring
 #lastupdated: 2017-03-14 22:50:45
 ---
 
@@ -22,7 +22,7 @@ tags:
 <li><span class="tech">Application Migration</span></li>
 <li><span class="tech">Automation</span></li>
 <li><span class="tech">API & Performance Testing</span></li>
-<li><span class="tech">Alerting and Monitoring</span></li>
+<li><span class="tech">Alerting & Monitoring</span></li>
 </ul>
 
 <h4>April 2017 - Present<br>
@@ -37,7 +37,7 @@ Provide programming and technology implementation services and solutions for cli
 • Debug issues by analyzing logs or source code (Kibana, Cloud Foundry, & IntelliJ)<br>
 • QA Team Lead: develop, execute and automate API and performance tests (Postman/Javascript, HP ALM & JMeter)<br>
 • Configure and test mocks to meet the client’s technical requirements (Golang & PostgreSQL)<br>
-• Write monitoring and alert scripts (HP APM, ElastAlert & NiFi)<br><br>
+• Write monitoring and alert scripts (HP APM, ElastAlert & NiFi)<br>
 
 2020<br>
 Actively engaged in the sale of project expansions/extensions totaling over $10 million<br>
@@ -46,10 +46,10 @@ Actively engaged in the sale of project expansions/extensions totaling over $10 
 • Onboarded and trained incoming resources<br>
 
 2017 - 2018: Application Developer<br>
-• Utilized management and coding experience to integrate client's software into customer's systems in an SaaS model.<br><br>
+• Utilized management and coding experience to integrate client's software into customer's systems in an SaaS model.<br>
 
 2017: Business Analyst<br>
-• First point of contact for data transfer issues in client's data warehouses.<br><br>
+• First point of contact for data transfer issues in client's data warehouses.<br>
 
 2017-2018 Volunteering<br>
 Technology Development Program Rewards & Recognition Lead<br>
