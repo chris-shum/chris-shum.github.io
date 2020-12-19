@@ -23,5 +23,5 @@ tags:
 </ul>
 
 <h4>Summary</h4>
-<a href = "https://github.com/chris-shum/chris-shum.github.io/blob/master/certifications/Salesforce_Platform_Developer_I.pdf" target="_blank">
+<a href = "https://trailblazer.me/id/cshum" target="_blank">
 Salesforce Platform Developer I Certificate</a>
