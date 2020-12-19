@@ -31,13 +31,13 @@ New York, NY</h4>
 
 Provide programming and technology implementation services and solutions for clients.<br><br>
 2018 - Present: Automation Engineer<br>
-• Core team member during application migrations<br>
+• Core team member during application migrations (Microservices, PCF/OSCF, AWS, ELK)<br>
 • Support CI/CD process; building/maintaining pipelines, troubleshooting, and deployments (GoCD, Cloud Foundry, AWS)<br>
-• Ran performance studies to determine service autoscaling thresholds<br>
+• Ran performance studies to determine service autoscaling thresholds (Micro Focus ALM)<br>
 • Debug issues by analyzing logs or source code (Kibana, Cloud Foundry, & IntelliJ)<br>
-• QA Team Lead: develop, execute and automate API and performance tests (Postman/Javascript, HP ALM & JMeter)<br>
+• QA Team Lead: develop, execute and automate API and performance tests (Postman/Javascript, Micro Focus ALM & JMeter)<br>
 • Configure and test mocks to meet the client’s technical requirements (Golang & PostgreSQL)<br>
-• Write monitoring and alert scripts (HP APM, ElastAlert & NiFi)<br>
+• Write monitoring and alert scripts (Micro Focus APM, ElastAlert & NiFi)<br>
 
 2020<br>
 Actively engaged in the sale of project expansions/extensions totaling over $10 million<br>
