@@ -1,5 +1,5 @@
 ---
-title: Senior Analyst
+title: Technology Architecture Delivery Specialist
 excerpt: Accenture
 priority: 1
 categories:
