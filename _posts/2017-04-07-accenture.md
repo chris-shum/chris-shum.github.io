@@ -30,7 +30,7 @@ tags:
 New York, NY</h4>
 
 Provide programming and technology implementation services and solutions for clients.<br><br>
-2018 - Present: Automation Engineer<br>
+2018 - Present: DevOps/Automation Engineer<br>
 • Core team member during application migrations (Microservices, PCF/OSCF, AWS, ELK)<br>
 • Support CI/CD process; building/maintaining pipelines, troubleshooting, and deployments (GoCD, Cloud Foundry, AWS)<br>
 • Ran performance studies to determine service autoscaling thresholds (Micro Focus ALM)<br>
